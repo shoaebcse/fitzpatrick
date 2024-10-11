@@ -1,0 +1,1245 @@
+    /* section no: responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+       
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+       
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+       
+        
+    }
+    /* section no: responsive end */  
+
+
+
+/* section no:1 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+     .left_top {
+         padding-left: 30px;
+        }
+     .left_bottom {
+        padding-left: 30px;
+     }
+     .right_top {
+        padding-left: 30px;
+     }
+     .right_bottom {
+        padding-left: 30px;
+     }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .left_top {
+            padding-left: 30px;
+           }
+        .left_bottom {
+           padding-left: 30px;
+        }
+        .right_top {
+           padding-left: 30px;
+        }
+        .right_bottom {
+           padding-left: 30px;
+        }
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .left_top {
+            padding-left: 30px;
+           }
+        .left_bottom {
+           padding-left: 30px;
+        }
+        .right_top {
+           padding-left: 30px;
+        }
+        .right_bottom {
+           padding-left: 30px;
+        }
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .left_top {
+            padding-left: 30px;
+           }
+        .left_bottom {
+           padding-left: 30px;
+        }
+        .right_top {
+           padding-left: 30px;
+        }
+        .right_bottom {
+           padding-left: 30px;
+        }
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .left_top {
+            padding-left: 30px;
+           }
+        .left_bottom {
+           padding-left: 30px;
+        }
+        .right_top {
+           padding-left: 30px;
+        }
+        .right_bottom {
+           padding-left: 30px;
+        }
+        
+    }
+    /* section no:1 responsive end*/
+
+
+    /* section no:2 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .nav_bar a{
+            padding: 0px 0px 0px 0px;
+            font-size: 11px;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .nav_bar a{
+            padding: 0px 0px 0px 0px;
+            font-size: 11px;
+        }
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .nav_bar a{
+            padding: 0px 0px 0px 0px;
+            font-size: 11px;
+        }
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .nav_bar a{
+            padding: 0px 0px 0px 0px;
+            font-size: 11px;
+        }
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .nav_bar a{
+            padding: 0px 0px 0px 0px;
+            font-size: 11px;
+        }
+        
+    }
+    /* section no:2 responsive end*/
+
+
+    
+    /* section no:3 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .carousel_content h1 {
+            font-size: 13px;
+        }
+        .carousel_content a {
+            padding: 5px;
+            font-size: 10px;
+            margin-bottom: 40%;
+        }
+    }
+
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .carousel_content h1 {
+            font-size: 13px;
+        }
+        .carousel_content a {
+            padding: 5px;
+            font-size: 10px;
+            margin-bottom: 40%;
+        }
+      
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .carousel_content h1 {
+            font-size: 13px;
+        }
+        .carousel_content a {
+            padding: 5px;
+            font-size: 10px;
+            margin-bottom: 40%;
+        }
+     
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .carousel_content h1 {
+            font-size: 13px;
+        }
+        .carousel_content a {
+            padding: 5px;
+            font-size: 10px;
+            margin-bottom: 40%;
+        }
+    
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .carousel_content h1 {
+            font-size: 13px;
+        }
+        .carousel_content a {
+            padding: 5px;
+            font-size: 10px;
+            margin-bottom: 40%;
+        }
+     
+    }
+    /* section no:3 responsive end*/
+
+
+        /* section no:5 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .logo_two img {
+            margin:20px 0px 0px 8%;
+        }
+        .financial_logo img {
+            padding:0px 90px 20px 0px;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .logo_two img {
+            margin:20px 0px 0px 8%;
+        }
+        .financial_logo img {
+            padding:0px 90px 20px 0px;
+        }
+       
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .logo_two img {
+            margin:20px 0px 0px 8%;
+        }
+        .financial_logo img {
+            padding:0px 90px 20px 0px;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .logo_two img {
+            margin:20px 0px 0px 8%;
+        }
+        .financial_logo img {
+            padding:0px 90px 20px 0px;
+        }
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .logo_two img {
+            margin:20px 0px 0px 8%;
+        }
+        .financial_logo img {
+            padding:0px 90px 20px 0px;
+        }
+    }
+    /* section no:5 responsive end */  
+ 
+
+        /* section no:8 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .left_servis h4{
+            text-align: center;
+        }
+        .left_servis p{
+            text-align: center;
+        }
+        .right_servis h4 {
+            text-align: center;
+        }
+        .right_servis p {
+            text-align: center;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .left_servis h4{
+            text-align: center;
+        }
+        .left_servis p{
+            text-align: center;
+        }
+        .right_servis h4 {
+            text-align: center;
+        }
+        .right_servis p {
+            text-align: center;
+        }
+       
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .left_servis h4{
+            text-align: center;
+        }
+        .left_servis p{
+            text-align: center;
+        }
+        .right_servis h4 {
+            text-align: center;
+        }
+        .right_servis p {
+            text-align: center;
+        }
+        
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .left_servis h4{
+            text-align: center;
+        }
+        .left_servis p{
+            text-align: center;
+        }
+        .right_servis h4 {
+            text-align: center;
+        }
+        .right_servis p {
+            text-align: center;
+        }
+       
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .left_servis h4{
+            text-align: center;
+        }
+        .left_servis p{
+            text-align: center;
+        }
+        .right_servis h4 {
+            text-align: center;
+        }
+        .right_servis p {
+            text-align: center;
+        }
+       
+        
+    }
+    /* section no:8 responsive end */  
+
+    
+        /* section no:7 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+       .coin_button button {
+        margin-left: 35%;
+       }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .coin_button button {
+            margin-left: 35%;
+           }
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .coin_button button {
+            margin-left: 35%;
+           }
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .coin_button button {
+            margin-left: 35%;
+           }
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .coin_button button {
+            margin-left: 35%;
+           }
+        
+    }
+    /* section no:7 responsive end */
+
+
+        /* section no:9 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .textarea_bottom textarea {
+            width: 90%;
+            height: auto;
+        }
+        .textarea_btn button {
+            margin-left: 40%;
+        }
+        
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .textarea_bottom textarea {
+            width: 90%;
+            height: auto;
+        }
+        .textarea_btn button {
+            margin-left: 40%;
+        }
+       
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .textarea_bottom textarea {
+            width: 90%;
+            height: auto;
+        }
+        .textarea_btn button {
+            margin-left: 40%;
+        }
+        
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .textarea_bottom textarea {
+            width: 90%;
+            height: auto;
+        }
+        .textarea_btn button {
+            margin-left: 40%;
+        }
+       
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .textarea_bottom textarea {
+            width: 90%;
+            height: auto;
+        }
+        .textarea_btn button {
+            margin-left: 40%;
+        }
+       
+        
+    }
+    /* section no:9 responsive end */ 
+
+
+        /* section no:10 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .contract_left h1 {
+            padding: 30px 0px 0px 90px;
+            font-size: 30px;
+        }
+        .contract_left h6 {
+            font-size: 15px;
+            padding:0px 0px  10px 90px;
+        }
+        /*1st colum*/
+        .contract_font {
+            border-bottom: 2px solid #FFFFFF;
+            margin: 0% 40% 0 90px;
+        }
+        .location_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .location_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+        }
+        .contract_font p {
+            font-size: 10px;
+            padding-bottom: 5px;
+        }
+        .cell_font {
+            display: flex;
+            margin:10px 40% 0px 90px;
+            border-bottom: 2px solid #FFFFFF;
+        
+        }
+        .cell_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .cell_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+            padding: 5px 0px 10px 5px;
+        }
+        
+        .email_content {
+            display: flex;
+            margin: 10px 0px 0px 90px;
+        }
+        .email_content a {
+            color: #BC301A;
+            font-size: 15px;
+        }
+        .email_content h5 {
+            color: #FFFFFF;
+            font-size: 15px;
+            padding: 0px 0px 10px 5px;
+        }
+        .facebook_font {
+            display: flex;
+            margin-left: 90px;
+        }
+        
+        .quick_inks h1 {
+            font-size: 30px;
+            margin-left: 30%;
+        }
+        .quick_left {
+            margin-left: 23%;
+        }
+        .quick_right {
+            margin-left: 23%;
+        }
+        .bottom_footer {
+            border-top: none;
+            padding-top: 30px;
+        }
+               
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .contract_left h1 {
+            padding: 30px 0px 0px 90px;
+            font-size: 30px;
+        }
+        .contract_left h6 {
+            font-size: 15px;
+            padding:0px 0px  10px 90px;
+        }
+        /*1st colum*/
+        .contract_font {
+            border-bottom: 2px solid #FFFFFF;
+            margin: 0% 40% 0 90px;
+        }
+        .location_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .location_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+        }
+        .contract_font p {
+            font-size: 10px;
+            padding-bottom: 5px;
+        }
+        .cell_font {
+            display: flex;
+            margin:10px 40% 0px 90px;
+            border-bottom: 2px solid #FFFFFF;
+        
+        }
+        .cell_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .cell_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+            padding: 5px 0px 10px 5px;
+        }
+        
+        .email_content {
+            display: flex;
+            margin: 10px 0px 0px 90px;
+        }
+        .email_content a {
+            color: #BC301A;
+            font-size: 15px;
+        }
+        .email_content h5 {
+            color: #FFFFFF;
+            font-size: 15px;
+            padding: 0px 0px 10px 5px;
+        }
+        .facebook_font {
+            display: flex;
+            margin-left: 90px;
+        }
+        
+        .quick_inks h1 {
+            font-size: 30px;
+            margin-left: 30%;
+        }
+        .quick_left {
+            margin-left: 23%;
+        }
+        .quick_right {
+            margin-left: 23%;
+        }
+        .bottom_footer {
+            border-top: none;
+            padding-top: 30px;
+        }
+       
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .contract_left h1 {
+            padding: 30px 0px 0px 90px;
+            font-size: 30px;
+        }
+        .contract_left h6 {
+            font-size: 15px;
+            padding:0px 0px  10px 90px;
+        }
+        /*1st colum*/
+        .contract_font {
+            border-bottom: 2px solid #FFFFFF;
+            margin: 0% 40% 0 90px;
+        }
+        .location_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .location_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+        }
+        .contract_font p {
+            font-size: 10px;
+            padding-bottom: 5px;
+        }
+        .cell_font {
+            display: flex;
+            margin:10px 40% 0px 90px;
+            border-bottom: 2px solid #FFFFFF;
+        
+        }
+        .cell_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .cell_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+            padding: 5px 0px 10px 5px;
+        }
+        
+        .email_content {
+            display: flex;
+            margin: 10px 0px 0px 90px;
+        }
+        .email_content a {
+            color: #BC301A;
+            font-size: 15px;
+        }
+        .email_content h5 {
+            color: #FFFFFF;
+            font-size: 15px;
+            padding: 0px 0px 10px 5px;
+        }
+        .facebook_font {
+            display: flex;
+            margin-left: 90px;
+        }
+        
+        .quick_inks h1 {
+            font-size: 30px;
+            margin-left: 30%;
+        }
+        .quick_left {
+            margin-left: 23%;
+        }
+        .quick_right {
+            margin-left: 23%;
+        }
+        .bottom_footer {
+            border-top: none;
+            padding-top: 30px;
+        }
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .contract_left h1 {
+            padding: 30px 0px 0px 90px;
+            font-size: 30px;
+        }
+        .contract_left h6 {
+            font-size: 15px;
+            padding:0px 0px  10px 90px;
+        }
+        /*1st colum*/
+        .contract_font {
+            border-bottom: 2px solid #FFFFFF;
+            margin: 0% 40% 0 90px;
+        }
+        .location_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .location_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+        }
+        .contract_font p {
+            font-size: 10px;
+            padding-bottom: 5px;
+        }
+        .cell_font {
+            display: flex;
+            margin:10px 40% 0px 90px;
+            border-bottom: 2px solid #FFFFFF;
+        
+        }
+        .cell_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .cell_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+            padding: 5px 0px 10px 5px;
+        }
+        
+        .email_content {
+            display: flex;
+            margin: 10px 0px 0px 90px;
+        }
+        .email_content a {
+            color: #BC301A;
+            font-size: 15px;
+        }
+        .email_content h5 {
+            color: #FFFFFF;
+            font-size: 15px;
+            padding: 0px 0px 10px 5px;
+        }
+        .facebook_font {
+            display: flex;
+            margin-left: 90px;
+        }
+        
+        .quick_inks h1 {
+            font-size: 30px;
+            margin-left: 30%;
+        }
+        .quick_left {
+            margin-left: 23%;
+        }
+        .quick_right {
+            margin-left: 23%;
+        }
+        .bottom_footer {
+            border-top: none;
+            padding-top: 30px;
+        }
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .contract_left h1 {
+            padding: 30px 0px 0px 90px;
+            font-size: 30px;
+        }
+        .contract_left h6 {
+            font-size: 15px;
+            padding:0px 0px  10px 90px;
+        }
+        /*1st colum*/
+        .contract_font {
+            border-bottom: 2px solid #FFFFFF;
+            margin: 0% 40% 0 90px;
+        }
+        .location_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .location_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+        }
+        .contract_font p {
+            font-size: 10px;
+            padding-bottom: 5px;
+        }
+        .cell_font {
+            display: flex;
+            margin:10px 40% 0px 90px;
+            border-bottom: 2px solid #FFFFFF;
+        
+        }
+        .cell_font a {
+            font-size: 15px;
+            color: #BC301A ;
+        }
+        
+        .cell_font h5{
+            color: #FFFFFF;
+            font-size: 10px;
+            padding: 5px 0px 10px 5px;
+        }
+        
+        .email_content {
+            display: flex;
+            margin: 10px 0px 0px 90px;
+        }
+        .email_content a {
+            color: #BC301A;
+            font-size: 15px;
+        }
+        .email_content h5 {
+            color: #FFFFFF;
+            font-size: 15px;
+            padding: 0px 0px 10px 5px;
+        }
+        .facebook_font {
+            display: flex;
+            margin-left: 90px;
+        }
+        
+        .quick_inks h1 {
+            font-size: 30px;
+            margin-left: 30%;
+        }
+        .quick_left {
+            margin-left: 23%;
+        }
+        .quick_right {
+            margin-left: 23%;
+        }
+        .bottom_footer {
+            border-top: none;
+            padding-top: 30px;
+        }
+        
+    }
+    /* section no:10 responsive end */ 
+
+        /* section no:11 responsive start*/
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .bottom_left h2 {
+            font-size: 15px;
+            text-align: justify;
+        }
+        .bottom_right a{
+            text-align: end;
+        }
+        .bottom_right h2 {
+            text-align: end;
+        }
+        
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+       
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+       
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+       
+        
+    }
+    /* section no:11 responsive end */  
